@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 int Queenes[8]={0},Counts=0;
 int Check(int line,int list){
     //遍历该行之前的所有行
